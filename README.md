@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @narjanrodes
 - 👀 I’m interested in TI
 - 🌱 I’m currently learning scientific Fiction
-- 💞️ I’m looking to collaborate on Terraform, Azure Devops
+- 💞️ I’m looking to collaborate on Vagrant, Terraform, Ansible, Azure Devops
 - 📫 How to reach me e-mail: narjanrodes@hotmail.com
 
 <!---
